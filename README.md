@@ -1,6 +1,7 @@
 
 # TASK 3A
 
+## Part A: Real world aruco detection
 This is simple python code for detecting aruco marker from dicitonay ``6X6_250`` of ``cv2.aruco`` 
 
 This is the content of aruco.py with extra comments and explanation
